@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.hapri.org">
+    <img src="../../assets/branding/hapri-banner.jpg" alt="HAPRI — Health and Agricultural Policy Research Institute" />
+  </a>
+</p>
+
 # HAPRI COVID-19 Open Access Database
 
 # Confirmed, Recovered, Death and Relapsed cases

@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.hapri.org">
+    <img src="../../assets/branding/hapri-banner.jpg" alt="HAPRI — Health and Agricultural Policy Research Institute" />
+  </a>
+</p>
+
 | Country     | Level 1 | Level 2 | Level 3 | Level 4 | Source | URL |
 |-------------|---------|---------|---------|---------|--------|-----|
 |  Vietnam    |Province|District|Commune| |  General Statistics Office     |   https://www.gso.gov.vn/dmhc2015/  |
