@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.hapri.org">
+    <img src="assets/branding/hapri-banner.jpg" alt="HAPRI — Health and Agricultural Policy Research Institute" />
+  </a>
+</p>
+
 # Open Access Database from HAPRI
 ## Version 1.0 - May 2020
 
@@ -56,4 +62,15 @@ LinkedIn: https://www.linkedin.com/in/dinhxnguyen/
 
 <p align="center">
    <img src="https://static.wixstatic.com/media/742178_c1375cf8dde04d6c95b87b0112b85a59~mv2.png" alt="HAPRI Logo" width="207.25px" height="337.75px"/>
+</p>
+
+
+---
+
+<p align="center">
+  <a href="https://www.hapri.org">
+    <img src="assets/branding/hapri-logo.png" alt="HAPRI" width="110" />
+  </a>
+  <br>
+  <em>A project of the <a href="https://www.hapri.org">Health and Agricultural Policy Research Institute</a></em>
 </p>
